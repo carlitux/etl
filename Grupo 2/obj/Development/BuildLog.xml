@@ -2,13 +2,18 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Grupo 2</Name>
-    <LastWriteTime>2022-07-13T02:17:02.6119731Z</LastWriteTime>
+    <LastWriteTime>2022-07-14T02:53:32.3178651Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>DW.DimProduct.dtsx</Name>
-      <LastWriteTime>2022-07-13T21:29:20.5639853Z</LastWriteTime>
+      <LastWriteTime>2022-07-14T03:08:03.8285241Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DW.DimSalesTerritory.dtsx</Name>
+      <LastWriteTime>2022-07-14T02:54:42.377775Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
